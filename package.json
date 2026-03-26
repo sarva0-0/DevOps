@@ -1,34 +1,5 @@
 {
-  "id": 8472,
-  "username": "pixel_wanderer",
-  "email": "pixel8472@example.com",
-  "isActive": true,
-  "balance": 1532.75,
-  "hobbies": ["gaming", "photography", "cycling"],
-  "favoriteNumbers": [3, 7, 21, 42],
-  "profile": {
-    "firstName": "Aarav",
-    "lastName": "Reddy",
-    "age": 22,
-    "gender": "male"
-  },
-  "location": {
-    "city": "Hyderabad",
-    "state": "Telangana",
-    "country": "India",
-    "pincode": 500081
-  },
-  "devices": [
-    {
-      "type": "laptop",
-      "brand": "Dell",
-      "os": "Windows 11"
-    },
-    {
-      "type": "mobile",
-      "brand": "Samsung",
-      "os": "Android"
-    }
-  ],
-  "lastLogin": "2026-03-25T10:45:30Z"
+  "scripts": {
+    "build": "echo Build step working"
+  }
 }
