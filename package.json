@@ -1,5 +1,6 @@
 {
   "scripts": {
-    "build": "echo Build step working"
+    "build": "echo Build step working",
+    "test": "node test.js"
   }
 }
