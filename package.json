@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/sarva0-0/DevOps/issues"
   },
-  "homepage": "https://github.com/sarva0-0/DevOps#readme"
+  "homepage": "https://github.com/sarva0-0/DevOps#readme",
   "scripts": {
   "start": "node server.js"
     }
